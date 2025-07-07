@@ -28,11 +28,13 @@ A React-based interactive visualization tool for popular sorting algorithms.
 
 
 ## 🗂️ Project Structure
-src/
-├── SortingVisualizer.jsx # Main React component
-├── sortingAlgorithms.js # Sorting algorithms and animation generators
-├── SortingVisualizer.css # Styling for the visualization
 
+```
+src/
+├── SortingVisualizer.jsx      # Main React component
+├── sortingAlgorithms.js       # Sorting algorithms and animation generators
+├── SortingVisualizer.css      # Styling for the visualization
+```
 
 ## 🚀 How to Run Locally
 
