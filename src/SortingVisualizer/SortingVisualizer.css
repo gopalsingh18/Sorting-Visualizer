@@ -1,0 +1,19 @@
+.array-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  flex-wrap: nowrap;
+  margin: 20px auto;
+  width: 90%;
+  height: 200px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.array-bar {
+  display: inline-block;
+  margin: 0 1px;
+  background-color: blue;
+  vertical-align: bottom;
+}
